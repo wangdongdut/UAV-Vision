@@ -9,7 +9,7 @@
   * [[VisDrone2020](http://aiskyeye.com/)][[private-link](https://pan.baidu.com/s/1qBd6umT43sdO3agBSJPozA)]
   * [[VisDrone2019](http://2019.aiskyeye.com/)][[VisDrone2018]()]
 
-* **DUT-OSPT: ** <br />
+* **DUT-OSPT:** <br />
   **"Online Single Person Tracking in Unmanned Aerial Vehicles." .**  <br />
   [[paper]()]
   [[offical-link](https://github.com/wangdongdut/Online-Single-Person-Tracking-in-UAV)] <br />  
