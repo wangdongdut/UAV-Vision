@@ -50,6 +50,10 @@
   [[offical-link](https://uavid.nl/)] 
   [[private-link](https://pan.baidu.com/s/1ur_Rf7nFJRplFwxwUSLVpQ)]  <br />  
   
+  
+   * **Anti-UAV[CVPR2020].**  [[offical-link](https://github.com/ZhaoJ9014/Anti-UAV)] 
+  [[private-link](https://github.com/ZhaoJ9014/Anti-UAV)]  <br />  
+  
  * **UCF Aerial Action Dataset.**  [[offical-link](https://www.crcv.ucf.edu/data/UCF_Aerial_Action.php)] 
   [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />  
   
