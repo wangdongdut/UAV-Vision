@@ -14,7 +14,7 @@
   **"AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance." ICRA (2020).** 
   [[paper](http://www.lewissoft.com/pdf/ICRA2020/0905.pdf)]
   [[offical-link](https://bozcani.github.io/auairdataset)] 
-  [[private-link](https://pan.baidu.com/s/1Oo79DLvbz8Ls9nID_Qd4XA)]  <br />   
+  [[private-link](https://pan.baidu.com/s/1Ow4y6ivMSptIcysJAkHYMA)]  <br />   
 
 * **UAVDT[ECCV2018]: Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian.** <br />
   **"The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2020).** 
