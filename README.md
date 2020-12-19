@@ -38,8 +38,11 @@
   [[offical-link](https://cemse.kaust.edu.sa/ivul/uav123)] 
   [[private-link](https://pan.baidu.com/s/1JcDOgLEBi57FNZNeohA97g)]  <br />   
   
- * **UCF Aerial Action Data Set.**  [[offical-link](https://www.crcv.ucf.edu/data/UCF_Aerial_Action.php)] 
-  [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />   
+ * **UCF Aerial Action Dataset.**  [[offical-link](https://www.crcv.ucf.edu/data/UCF_Aerial_Action.php)] 
+  [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />  
+  
+ * **Semantic Drone Dataset.**  [[offical-link](https://www.tugraz.at/institute/icg/research/team-fraundorfer/software-media/dronedataset/)] 
+  [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />  
 
 ## Vehicle Re-identification: 
 
