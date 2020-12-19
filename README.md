@@ -38,11 +38,11 @@
   [[offical-link](https://cemse.kaust.edu.sa/ivul/uav123)] 
   [[private-link](https://pan.baidu.com/s/1JcDOgLEBi57FNZNeohA97g)]  <br />   
   
- * **VEDAI[JVCIR2015]：Matthias Mueller, Neil Smith, Bernard Ghanem.**
-   **"A Benchmark and Simulator for UAV Tracking." ECCV (2016).** 
-  [[paper](https://link.springer.com/chapter/10.1007%2F978-3-319-46448-0_27)]
-  [[offical-link](https://cemse.kaust.edu.sa/ivul/uav123)] 
-  [[private-link](https://pan.baidu.com/s/1JcDOgLEBi57FNZNeohA97g)]  <br />  
+ * **VEDAI[JVCIR2016]：Sebastien Razakarivony, Frederic Jurie.**
+   **"Vehicle Detection in Aerial Imagery : A Small Target Detection Benchmark." JVCIR (2016).** 
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320315002187)]
+  [[offical-link](https://downloads.greyc.fr/vedai/)] 
+  [[private-link](https://pan.baidu.com/s/1ELLpvSv_HF6LDprCeMjXmQ)]  <br />  
   
  * **DOTA[CVPR2018]：Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang.** 
   **"DOTA: A Large-scale Dataset for Object DeTection in Aerial Images." CVPR (2018).** 
