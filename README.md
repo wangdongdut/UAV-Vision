@@ -5,7 +5,7 @@
 
 ## Datasets:
 
-* **"DUT-OSPT: "** <br />
+* **DUT-OSPT: ** <br />
   **"Online Single Person Tracking in Unmanned Aerial Vehicles." .** 
   [[paper]()]
   [[offical-link](https://github.com/wangdongdut/Online-Single-Person-Tracking-in-UAV)] <br />  
@@ -35,6 +35,6 @@
 
 ## Person Re-identification: 
 
-* "https://github.com/bismex/Awesome-person-re-identification" <br /> 
+* https://github.com/bismex/Awesome-person-re-identification <br /> 
 
 
