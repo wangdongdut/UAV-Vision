@@ -38,8 +38,11 @@
   [[offical-link](https://cemse.kaust.edu.sa/ivul/uav123)] 
   [[private-link](https://pan.baidu.com/s/1JcDOgLEBi57FNZNeohA97g)]  <br />   
   
-  
- 
+ * **DOTA[CVPR2018]：Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang.** 
+  **"DOTA: A Large-scale Dataset for Object DeTection in Aerial Images." CVPR (2018).** 
+  [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.pdf)]
+  [[offical-link](https://captain-whu.github.io/DOTA/)] 
+  [[private-link](https://pan.baidu.com/s/1LfyEF5i0L59LrgRkRzIyyQ)]  <br />  
   
  * **UCF Aerial Action Dataset.**  [[offical-link](https://www.crcv.ucf.edu/data/UCF_Aerial_Action.php)] 
   [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />  
