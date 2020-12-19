@@ -8,7 +8,7 @@
 * **DUT-OSPT: ** <br />
   **"Online Single Person Tracking in Unmanned Aerial Vehicles." .** 
   [[paper]()]
-  [[offical-link](https://github.com/wangdongdut/Online-Single-Person-Tracking-in-UAV/blob/master/README.md)] <br />  
+  [[offical-link](https://github.com/wangdongdut/Online-Single-Person-Tracking-in-UAV)] <br />  
 
 * **UAVDT[ECCV2018]: Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian.** <br />
   **"The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2020).** 
