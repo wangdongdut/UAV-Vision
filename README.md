@@ -14,7 +14,7 @@
  * **TB70[AAAI2017]：** <br />
    **"The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2020).** 
   [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)]
-  [[offical-link](https://sites.google.com/site/daviddo0323/projects/uavdt)] 
+  [[offical-link](https://github.com/flyers/drone-tracking)] 
   [[private-link](https://pan.baidu.com/s/17c8ecQfNsAPrivQrF0p9_A)]  <br />  
  
  * **UAV123[ECCV2016]: Matthias Mueller, Neil Smith, Bernard Ghanem.** <br />
