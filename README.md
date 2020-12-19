@@ -6,9 +6,15 @@
 ## Datasets:
 
 * **DUT-OSPT: ** <br />
-  **"Online Single Person Tracking in Unmanned Aerial Vehicles." .** 
+  **"Online Single Person Tracking in Unmanned Aerial Vehicles." .**  <br />
   [[paper]()]
   [[offical-link](https://github.com/wangdongdut/Online-Single-Person-Tracking-in-UAV)] <br />  
+
+* **AU-AIR[ICRA2020]: Ilker Bozcan, Erdal Kayacan.** <br />
+  **"AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance." ICRA (2020).** 
+  [[paper](http://www.lewissoft.com/pdf/ICRA2020/0905.pdf)]
+  [[offical-link](https://bozcani.github.io/auairdataset)] 
+  [[private-link](https://pan.baidu.com/s/1Oo79DLvbz8Ls9nID_Qd4XA)]  <br />   
 
 * **UAVDT[ECCV2018]: Dawei Du, Yuankai Qi, Hongyang Yu, Yifan Yang, Kaiwen Duan, Guorong Li, Weigang Zhang, Qingming Huang, Qi Tian.** <br />
   **"The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking." ECCV (2020).** 
