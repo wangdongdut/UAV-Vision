@@ -35,5 +35,6 @@
 
 ## Person Re-identification: 
 
+* "https://github.com/bismex/Awesome-person-re-identification" <br /> 
 
 
