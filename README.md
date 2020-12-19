@@ -39,5 +39,4 @@
 ## Person Re-identification: 
 
 * https://github.com/bismex/Awesome-person-re-identification <br /> 
-
-
+* https://github.com/layumi/Person_reID_baseline_pytorch <br /> 
