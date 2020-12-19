@@ -44,6 +44,12 @@
   [[offical-link](https://captain-whu.github.io/DOTA/)] 
   [[private-link](https://pan.baidu.com/s/1LfyEF5i0L59LrgRkRzIyyQ)]  <br />  
   
+ * **UAVid[P&RS2020]：Ye Lyu, George Vosselman, Gui-Song Xia, Alper Yilmaz, Michael Ying Yang.** 
+  **"UAVid: A semantic segmentation dataset for UAV imagery." P&RS (2020).** 
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301295)]
+  [[offical-link](https://uavid.nl/)] 
+  [[private-link](https://pan.baidu.com/s/1ur_Rf7nFJRplFwxwUSLVpQ)]  <br />  
+  
  * **UCF Aerial Action Dataset.**  [[offical-link](https://www.crcv.ucf.edu/data/UCF_Aerial_Action.php)] 
   [[private-link](https://pan.baidu.com/s/14uxxwJEU4C3ofyQltWH9zw)]  <br />  
   
