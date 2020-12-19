@@ -14,7 +14,7 @@
  * **TB70[AAAI2017]：** <br />
    **"Visual Object Tracking for Unmanned Aerial Vehicles: A Benchmark and New Motion Models." AAAI (2017).** 
   [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)]
-  [[offical-link](https://github.com/flyers/drone-tracking)] 
+  [[offical-link](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14338/14292)] 
   [[private-link](https://pan.baidu.com/s/17c8ecQfNsAPrivQrF0p9_A)]  <br />  
  
  * **UAV123[ECCV2016]: Matthias Mueller, Neil Smith, Bernard Ghanem.** <br />
