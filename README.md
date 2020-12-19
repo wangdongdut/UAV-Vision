@@ -31,6 +31,7 @@
 
 ## Vehicle Re-identification: 
 
+* https://github.com/bismex/Awesome-vehicle-re-identification <br /> 
 
 
 ## Person Re-identification: 
