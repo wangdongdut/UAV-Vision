@@ -29,14 +29,11 @@
   [[private-link](https://pan.baidu.com/s/1JcDOgLEBi57FNZNeohA97g)]  <br />   
   
 
+## Vehicle Re-identification: 
+
+
+
 ## Person Re-identification: 
 
 
-
-
-## Vehicle Re-identification: 
-  
-  
-
-  
 
