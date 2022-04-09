@@ -79,18 +79,17 @@
 ### Resource: 
 
 * **Vehicle Re-ID:** 
-
-** https://github.com/bismex/Awesome-vehicle-re-identification <br /> 
-** https://github.com/layumi/Vehicle_reID-Collection <br /> 
-** https://github.com/Jakel21/vehicle-ReID-baseline <br />  
+  * https://github.com/bismex/Awesome-vehicle-re-identification <br /> 
+  * https://github.com/layumi/Vehicle_reID-Collection <br /> 
+  * https://github.com/Jakel21/vehicle-ReID-baseline <br />  
 
 * **Person Re-ID:** 
-** https://github.com/bismex/Awesome-person-re-identification <br /> 
-** https://github.com/layumi/Person_reID_baseline_pytorch <br /> 
+  * https://github.com/bismex/Awesome-person-re-identification <br /> 
+  * https://github.com/layumi/Person_reID_baseline_pytorch <br /> 
 
 * **SOT:** 
-** https://github.com/wangdongdut/Online-Visual-Tracking-SOTA <br /> 
-** https://github.com/wangdongdut/Long-term-Visual-Tracking <br /> 
+  * https://github.com/wangdongdut/Online-Visual-Tracking-SOTA <br /> 
+  * https://github.com/wangdongdut/Long-term-Visual-Tracking <br /> 
 
 * **MOT:** 
-** https://github.com/luanshiyinyang/awesome-multiple-object-tracking <br /> 
+  * https://github.com/luanshiyinyang/awesome-multiple-object-tracking <br /> 
