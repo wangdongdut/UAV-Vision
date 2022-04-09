@@ -79,6 +79,7 @@
 ### Resource: 
 
 * **Vehicle Re-ID:** 
+
 ** https://github.com/bismex/Awesome-vehicle-re-identification <br /> 
 ** https://github.com/layumi/Vehicle_reID-Collection <br /> 
 ** https://github.com/Jakel21/vehicle-ReID-baseline <br />  
